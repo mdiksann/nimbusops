@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+lambda_function.zip
+crash.log
+.DS_Store
+push.sh
+/node_modules
